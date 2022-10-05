@@ -13,7 +13,7 @@ To use this repository on your loacal machine or Google Colab follow the below s
 
 2) Then download the handwritten IAM dataset from this link - (http://www.fki.inf.unibe.ch/databases/iam-handwriting-database/download-the-iam-handwriting-database) or (http://www.fki.inf.unibe.ch/DBs/iamDB/data/words)
 
-3) Creat your kaggle account and upload this data in kaggle.
+3) Create your kaggle account and upload this data in kaggle.
 
 4) Go to "Your Account" and create New "API" and download the .json file.
 
